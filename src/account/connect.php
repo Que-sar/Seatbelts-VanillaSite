@@ -2,10 +2,10 @@
 
 #Connection for the database
 
-$servername = "lochnagar.abertay.ac.uk";
-$uname = "sql2003063";
-$pwd = "HphZi7bMSjot";
-$dbname = "sql2003063";
+$servername = "HIDDEN";
+$uname = "HIDDEN";
+$pwd = "HIDDEN";
+$dbname = "HIDDEN";
 
 $connection = mysqli_connect($servername, $uname, $pwd, $dbname);
 
